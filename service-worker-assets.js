@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "ngY/ZACq",
+  "version": "cwd7NdBw",
   "assets": [
     {
       "hash": "sha256-Plp+mPd9DjNE9J+PbDxw2Rt5BD08cdFGhAvdbA4G0x4=",
@@ -258,12 +258,12 @@ self.assetsManifest = {
       "url": "assets/img/team/3.jpg"
     },
     {
-      "hash": "sha256-I29KuUm5bINzCHb2U95NiwmvNbQFT8/Wt/vng42463c=",
-      "url": "css/Styles.css"
-    },
-    {
       "hash": "sha256-1Zpnf37UTQzsiU826WfETbKakfSNzwXSd8fJOzvUgSg=",
       "url": "css/app.css"
+    },
+    {
+      "hash": "sha256-I29KuUm5bINzCHb2U95NiwmvNbQFT8/Wt/vng42463c=",
+      "url": "css/styles.css"
     },
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
