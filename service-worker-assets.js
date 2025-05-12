@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "MPenzDwu",
+  "version": "7ACFYCPB",
   "assets": [
     {
       "hash": "sha256-Plp+mPd9DjNE9J+PbDxw2Rt5BD08cdFGhAvdbA4G0x4=",
@@ -262,10 +262,6 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-I29KuUm5bINzCHb2U95NiwmvNbQFT8/Wt/vng42463c=",
-      "url": "css/styles.css"
-    },
-    {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "url": "favicon.png"
     },
@@ -278,7 +274,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-EAXk+/jxOlCWuAHitkzIW81AmfEH6lSwPPVga7qQ0ts=",
+      "hash": "sha256-+fsQe1f6o4bw4uFSxap01Ihnau7mhrCh2W+30aTpTsE=",
       "url": "index.html"
     },
     {
@@ -472,6 +468,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-aucfsaBjpvCcP8ZcauHVBpKCs0De/4skR5YY/20t/Z8=",
       "url": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "hash": "sha256-I29KuUm5bINzCHb2U95NiwmvNbQFT8/Wt/vng42463c=",
+      "url": "lib/css/styles.css"
     },
     {
       "hash": "sha256-2W9MVsCsVOk5O6ACQq8Y59mguPTZRmK/3KWHKtGxu8A=",
